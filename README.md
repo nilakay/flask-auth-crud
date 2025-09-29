@@ -29,8 +29,18 @@ A Flask-based web application that demonstrates **user authentication** and **CR
 - quantity (integer)  
 - price (numeric)  
 
-## Setup
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/nilakay/flask-auth-crud.git
-   cd flask-auth-crud
+## ⚙️ Setup
+```bash
+# 1. Clone repo
+git clone https://github.com/nilakay/flask-auth-crud.git
+cd flask-auth-crud
+
+# 2. Create a virtual environment & install dependencies
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+# 3. Setup PostgreSQL (use db.yaml for credentials)
+
+# 4. Run the app
+flask run
