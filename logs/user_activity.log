@@ -1,0 +1,817 @@
+2024-05-02 02:42:03,612 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:42:03,612 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:42:23,618 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('26', 13)
+2024-05-02 02:42:23,618 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('26', 13)
+2024-05-02 02:42:23,618 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('26', 13)
+2024-05-02 02:42:57,681 - user_activity_logger - INFO - Login attempt for email: alihan@gmail.com
+2024-05-02 02:42:57,681 - user_activity_logger - INFO - Login attempt for email: alihan@gmail.com
+2024-05-02 02:42:57,681 - user_activity_logger - INFO - Login attempt for email: alihan@gmail.com
+2024-05-02 02:43:00,044 - user_activity_logger - INFO - Successful login for email: alihan@gmail.com
+2024-05-02 02:43:00,044 - user_activity_logger - INFO - Successful login for email: alihan@gmail.com
+2024-05-02 02:43:00,044 - user_activity_logger - INFO - Successful login for email: alihan@gmail.com
+2024-05-02 02:48:21,665 - user_activity_logger - INFO - Login attempt for email: ece@gmail.com
+2024-05-02 02:48:24,040 - user_activity_logger - INFO - Successful login for email: ece@gmail.com
+2024-05-02 02:48:35,706 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:48:35,706 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:48:42,522 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('22', 11)
+2024-05-02 02:48:42,522 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('22', 11)
+2024-05-02 02:48:42,522 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('22', 11)
+2024-05-02 02:48:55,911 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-02 02:48:55,911 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-02 02:48:55,911 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-02 02:48:55,911 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-02 02:52:41,448 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age, password FROM users and params: None
+2024-05-02 02:52:41,448 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age, password FROM users and params: None
+2024-05-02 02:52:41,448 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age, password FROM users and params: None
+2024-05-02 02:52:47,929 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age, password FROM users and params: None
+2024-05-02 02:52:47,929 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age, password FROM users and params: None
+2024-05-02 02:52:48,921 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age, password FROM users and params: None
+2024-05-02 02:52:48,921 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age, password FROM users and params: None
+2024-05-02 02:52:48,921 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age, password FROM users and params: None
+2024-05-02 02:52:56,402 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:52:56,402 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:54:03,054 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:54:03,054 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:54:12,960 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:54:12,960 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:56:11,459 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:56:11,459 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:56:21,210 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('26', 9)
+2024-05-02 02:56:21,210 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('26', 9)
+2024-05-02 02:56:21,210 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('26', 9)
+2024-05-02 02:56:24,511 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:56:24,511 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:56:24,511 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:56:24,511 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:57:25,697 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:57:25,697 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:57:48,462 - user_activity_logger - INFO - Executed delete operation with query: DELETE FROM users WHERE id = %s and params: ('11',)
+2024-05-02 02:57:48,462 - user_activity_logger - INFO - Executed delete operation with query: DELETE FROM users WHERE id = %s and params: ('11',)
+2024-05-02 02:57:48,462 - user_activity_logger - INFO - Executed delete operation with query: DELETE FROM users WHERE id = %s and params: ('11',)
+2024-05-02 02:57:51,046 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:57:51,046 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:57:51,046 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:57:51,046 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:57:55,124 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:57:55,124 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:57:55,124 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:57:55,124 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:57:55,124 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:11,921 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('alin', 'alin@gmail.com', '34', '$2b$15$/rRt9l/ibuaHupJLMnZ76uQXVOTBQiHFCow4ivvwbGKXGznxughSe')
+2024-05-02 02:58:11,921 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('alin', 'alin@gmail.com', '34', '$2b$15$/rRt9l/ibuaHupJLMnZ76uQXVOTBQiHFCow4ivvwbGKXGznxughSe')
+2024-05-02 02:58:11,921 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('alin', 'alin@gmail.com', '34', '$2b$15$/rRt9l/ibuaHupJLMnZ76uQXVOTBQiHFCow4ivvwbGKXGznxughSe')
+2024-05-02 02:58:11,921 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('alin', 'alin@gmail.com', '34', '$2b$15$/rRt9l/ibuaHupJLMnZ76uQXVOTBQiHFCow4ivvwbGKXGznxughSe')
+2024-05-02 02:58:11,921 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('alin', 'alin@gmail.com', '34', '$2b$15$/rRt9l/ibuaHupJLMnZ76uQXVOTBQiHFCow4ivvwbGKXGznxughSe')
+2024-05-02 02:58:11,921 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('alin', 'alin@gmail.com', '34', '$2b$15$/rRt9l/ibuaHupJLMnZ76uQXVOTBQiHFCow4ivvwbGKXGznxughSe')
+2024-05-02 02:58:11,934 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:11,934 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:11,934 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:11,934 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:11,934 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:11,934 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:11,934 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:17,973 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:17,973 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:17,973 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:17,973 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:17,973 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:17,973 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:17,973 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:17,973 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:37,722 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET password = %s WHERE id = %s and params: ('$2b$15$Jp6C5qobqI5RG49BUQdd/eibHc5K7X.2Yf8fPUm52LzMMz.baxbyS', 1)
+2024-05-02 02:58:37,722 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET password = %s WHERE id = %s and params: ('$2b$15$Jp6C5qobqI5RG49BUQdd/eibHc5K7X.2Yf8fPUm52LzMMz.baxbyS', 1)
+2024-05-02 02:58:37,722 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET password = %s WHERE id = %s and params: ('$2b$15$Jp6C5qobqI5RG49BUQdd/eibHc5K7X.2Yf8fPUm52LzMMz.baxbyS', 1)
+2024-05-02 02:58:37,722 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET password = %s WHERE id = %s and params: ('$2b$15$Jp6C5qobqI5RG49BUQdd/eibHc5K7X.2Yf8fPUm52LzMMz.baxbyS', 1)
+2024-05-02 02:58:37,722 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET password = %s WHERE id = %s and params: ('$2b$15$Jp6C5qobqI5RG49BUQdd/eibHc5K7X.2Yf8fPUm52LzMMz.baxbyS', 1)
+2024-05-02 02:58:37,722 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET password = %s WHERE id = %s and params: ('$2b$15$Jp6C5qobqI5RG49BUQdd/eibHc5K7X.2Yf8fPUm52LzMMz.baxbyS', 1)
+2024-05-02 02:58:37,722 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET password = %s WHERE id = %s and params: ('$2b$15$Jp6C5qobqI5RG49BUQdd/eibHc5K7X.2Yf8fPUm52LzMMz.baxbyS', 1)
+2024-05-02 02:58:37,722 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET password = %s WHERE id = %s and params: ('$2b$15$Jp6C5qobqI5RG49BUQdd/eibHc5K7X.2Yf8fPUm52LzMMz.baxbyS', 1)
+2024-05-02 02:58:37,722 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET password = %s WHERE id = %s and params: ('$2b$15$Jp6C5qobqI5RG49BUQdd/eibHc5K7X.2Yf8fPUm52LzMMz.baxbyS', 1)
+2024-05-02 02:58:45,751 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-02 02:58:45,751 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-02 02:58:45,751 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-02 02:58:45,751 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-02 02:58:45,751 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-02 02:58:45,751 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-02 02:58:45,751 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-02 02:58:45,751 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-02 02:58:45,751 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-02 02:58:48,089 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-02 02:58:48,089 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-02 02:58:48,089 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-02 02:58:48,089 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-02 02:58:48,089 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-02 02:58:48,089 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-02 02:58:48,089 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-02 02:58:48,089 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-02 02:58:48,089 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-02 02:58:58,259 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:58,259 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:58,259 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:58,259 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:58,259 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:58,259 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:58,259 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:58,259 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:58,259 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:58:58,259 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 02:59:17,813 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%l%',)
+2024-05-02 02:59:17,813 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%l%',)
+2024-05-02 02:59:17,813 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%l%',)
+2024-05-02 02:59:17,813 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%l%',)
+2024-05-02 02:59:17,813 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%l%',)
+2024-05-02 02:59:17,813 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%l%',)
+2024-05-02 02:59:17,813 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%l%',)
+2024-05-02 02:59:17,813 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%l%',)
+2024-05-02 02:59:17,813 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%l%',)
+2024-05-02 02:59:17,813 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%l%',)
+2024-05-02 02:59:17,813 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%l%',)
+2024-05-02 02:59:23,873 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE quantity = %s and params: ('3',)
+2024-05-02 02:59:23,873 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE quantity = %s and params: ('3',)
+2024-05-02 02:59:23,873 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE quantity = %s and params: ('3',)
+2024-05-02 02:59:23,873 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE quantity = %s and params: ('3',)
+2024-05-02 02:59:23,873 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE quantity = %s and params: ('3',)
+2024-05-02 02:59:23,873 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE quantity = %s and params: ('3',)
+2024-05-02 02:59:23,873 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE quantity = %s and params: ('3',)
+2024-05-02 02:59:23,873 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE quantity = %s and params: ('3',)
+2024-05-02 02:59:23,873 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE quantity = %s and params: ('3',)
+2024-05-02 02:59:23,873 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE quantity = %s and params: ('3',)
+2024-05-02 02:59:23,873 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE quantity = %s and params: ('3',)
+2024-05-02 02:59:23,873 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE quantity = %s and params: ('3',)
+2024-05-02 02:59:27,035 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('3',)
+2024-05-02 02:59:27,035 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('3',)
+2024-05-02 02:59:27,035 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('3',)
+2024-05-02 02:59:27,035 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('3',)
+2024-05-02 02:59:27,035 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('3',)
+2024-05-02 02:59:27,035 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('3',)
+2024-05-02 02:59:27,035 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('3',)
+2024-05-02 02:59:27,035 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('3',)
+2024-05-02 02:59:27,035 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('3',)
+2024-05-02 02:59:27,035 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('3',)
+2024-05-02 02:59:27,035 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('3',)
+2024-05-02 02:59:27,035 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('3',)
+2024-05-02 02:59:27,035 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('3',)
+2024-05-02 03:04:02,395 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:04:02,395 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:04:07,727 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:07,727 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:16,708 - user_activity_logger - INFO - Executed update operation with query: UPDATE item SET quantity = %s WHERE id = %s and params: ('37', 2)
+2024-05-02 03:04:16,708 - user_activity_logger - INFO - Executed update operation with query: UPDATE item SET quantity = %s WHERE id = %s and params: ('37', 2)
+2024-05-02 03:04:16,708 - user_activity_logger - INFO - Executed update operation with query: UPDATE item SET quantity = %s WHERE id = %s and params: ('37', 2)
+2024-05-02 03:04:20,999 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:20,999 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:20,999 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:20,999 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:27,106 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:04:27,106 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:04:27,106 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:04:27,106 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:04:27,106 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:04:30,715 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:30,715 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:30,715 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:30,715 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:30,715 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:30,715 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:40,705 - user_activity_logger - INFO - Executed delete operation with query: DELETE FROM item WHERE id = %s and params: ('3',)
+2024-05-02 03:04:40,705 - user_activity_logger - INFO - Executed delete operation with query: DELETE FROM item WHERE id = %s and params: ('3',)
+2024-05-02 03:04:40,705 - user_activity_logger - INFO - Executed delete operation with query: DELETE FROM item WHERE id = %s and params: ('3',)
+2024-05-02 03:04:40,705 - user_activity_logger - INFO - Executed delete operation with query: DELETE FROM item WHERE id = %s and params: ('3',)
+2024-05-02 03:04:40,705 - user_activity_logger - INFO - Executed delete operation with query: DELETE FROM item WHERE id = %s and params: ('3',)
+2024-05-02 03:04:40,705 - user_activity_logger - INFO - Executed delete operation with query: DELETE FROM item WHERE id = %s and params: ('3',)
+2024-05-02 03:04:40,705 - user_activity_logger - INFO - Executed delete operation with query: DELETE FROM item WHERE id = %s and params: ('3',)
+2024-05-02 03:04:45,198 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:45,198 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:45,198 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:45,198 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:45,198 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:45,198 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:45,198 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:04:45,198 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:02,211 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO item (name, quantity, price) VALUES (%s, %s, %s) and params: ('pineapple', '56', '7')
+2024-05-02 03:05:02,211 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO item (name, quantity, price) VALUES (%s, %s, %s) and params: ('pineapple', '56', '7')
+2024-05-02 03:05:02,211 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO item (name, quantity, price) VALUES (%s, %s, %s) and params: ('pineapple', '56', '7')
+2024-05-02 03:05:02,211 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO item (name, quantity, price) VALUES (%s, %s, %s) and params: ('pineapple', '56', '7')
+2024-05-02 03:05:02,211 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO item (name, quantity, price) VALUES (%s, %s, %s) and params: ('pineapple', '56', '7')
+2024-05-02 03:05:02,211 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO item (name, quantity, price) VALUES (%s, %s, %s) and params: ('pineapple', '56', '7')
+2024-05-02 03:05:02,211 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO item (name, quantity, price) VALUES (%s, %s, %s) and params: ('pineapple', '56', '7')
+2024-05-02 03:05:02,211 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO item (name, quantity, price) VALUES (%s, %s, %s) and params: ('pineapple', '56', '7')
+2024-05-02 03:05:02,211 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO item (name, quantity, price) VALUES (%s, %s, %s) and params: ('pineapple', '56', '7')
+2024-05-02 03:05:02,237 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:02,237 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:02,237 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:02,237 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:02,237 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:02,237 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:02,237 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:02,237 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:02,237 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:02,237 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:06,528 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:06,528 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:06,528 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:06,528 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:06,528 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:06,528 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:06,528 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:06,528 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:06,528 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:06,528 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:06,528 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-02 03:05:19,270 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%appl%',)
+2024-05-02 03:05:19,270 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%appl%',)
+2024-05-02 03:05:19,270 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%appl%',)
+2024-05-02 03:05:19,270 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%appl%',)
+2024-05-02 03:05:19,270 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%appl%',)
+2024-05-02 03:05:19,270 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%appl%',)
+2024-05-02 03:05:19,270 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%appl%',)
+2024-05-02 03:05:19,270 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%appl%',)
+2024-05-02 03:05:19,270 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%appl%',)
+2024-05-02 03:05:19,270 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%appl%',)
+2024-05-02 03:05:19,270 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%appl%',)
+2024-05-02 03:05:19,270 - user_activity_logger - INFO - Executed select operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%appl%',)
+2024-05-02 03:06:48,685 - user_activity_logger - INFO - Login attempt for email: alin@gmail.com
+2024-05-02 03:06:51,053 - user_activity_logger - INFO - Successful login for email: alin@gmail.com
+2024-05-02 03:06:59,000 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:06:59,000 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:07:14,248 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('25', 9)
+2024-05-02 03:07:14,248 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('25', 9)
+2024-05-02 03:07:14,248 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('25', 9)
+2024-05-02 03:07:17,394 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:07:17,394 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:07:17,394 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:07:17,394 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:07:25,673 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%l%',)
+2024-05-02 03:07:25,673 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%l%',)
+2024-05-02 03:07:25,673 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%l%',)
+2024-05-02 03:07:25,673 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%l%',)
+2024-05-02 03:07:25,673 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%l%',)
+2024-05-02 03:14:09,067 - user_activity_logger - INFO - Login attempt for email: ece@gmail.com
+2024-05-02 03:14:11,437 - user_activity_logger - INFO - Successful login for email: ece@gmail.com
+2024-05-02 03:20:11,869 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:20:11,869 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:20:11,869 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:20:25,929 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%l%',)
+2024-05-02 03:20:25,929 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%l%',)
+2024-05-02 03:20:25,929 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%l%',)
+2024-05-02 03:20:25,929 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%l%',)
+2024-05-02 03:21:10,641 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('teoman', 'teoman@gmail.com', '23', '$2b$15$eQqfoxQjulrVOYqtI8YPJuxpsPwA1GfIDbRM5xidS7b.qJ/fCVlki')
+2024-05-02 03:21:10,641 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('teoman', 'teoman@gmail.com', '23', '$2b$15$eQqfoxQjulrVOYqtI8YPJuxpsPwA1GfIDbRM5xidS7b.qJ/fCVlki')
+2024-05-02 03:21:10,641 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('teoman', 'teoman@gmail.com', '23', '$2b$15$eQqfoxQjulrVOYqtI8YPJuxpsPwA1GfIDbRM5xidS7b.qJ/fCVlki')
+2024-05-02 03:21:10,641 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('teoman', 'teoman@gmail.com', '23', '$2b$15$eQqfoxQjulrVOYqtI8YPJuxpsPwA1GfIDbRM5xidS7b.qJ/fCVlki')
+2024-05-02 03:21:10,641 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('teoman', 'teoman@gmail.com', '23', '$2b$15$eQqfoxQjulrVOYqtI8YPJuxpsPwA1GfIDbRM5xidS7b.qJ/fCVlki')
+2024-05-02 03:21:10,641 - user_activity_logger - INFO - Executed add operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('teoman', 'teoman@gmail.com', '23', '$2b$15$eQqfoxQjulrVOYqtI8YPJuxpsPwA1GfIDbRM5xidS7b.qJ/fCVlki')
+2024-05-02 03:21:10,654 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:21:10,654 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:21:10,654 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:21:10,654 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:21:10,654 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:21:10,654 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:21:10,654 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:21:24,290 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:21:24,290 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:21:24,290 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:21:24,290 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:21:24,290 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:21:24,290 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:21:24,290 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:21:24,290 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:22:54,326 - user_activity_logger - INFO - Login attempt for email: teoman@gmail.com
+2024-05-02 03:22:54,326 - user_activity_logger - INFO - Login attempt for email: teoman@gmail.com
+2024-05-02 03:22:56,695 - user_activity_logger - WARNING - Invalid login attempt for email: teoman@gmail.com
+2024-05-02 03:22:56,695 - user_activity_logger - WARNING - Invalid login attempt for email: teoman@gmail.com
+2024-05-02 03:23:17,452 - user_activity_logger - INFO - Login attempt for email: teoman@gmail.com
+2024-05-02 03:23:17,452 - user_activity_logger - INFO - Login attempt for email: teoman@gmail.com
+2024-05-02 03:23:19,798 - user_activity_logger - INFO - Successful login for email: teoman@gmail.com
+2024-05-02 03:23:19,798 - user_activity_logger - INFO - Successful login for email: teoman@gmail.com
+2024-05-02 03:23:28,101 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:23:28,101 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 03:23:28,101 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 09:54:38,051 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 09:54:38,051 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 09:54:38,051 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 09:54:50,646 - user_activity_logger - INFO - Login attempt for email: alin@gmail.com
+2024-05-02 09:54:50,646 - user_activity_logger - INFO - Login attempt for email: alin@gmail.com
+2024-05-02 09:54:50,646 - user_activity_logger - INFO - Login attempt for email: alin@gmail.com
+2024-05-02 09:54:52,966 - user_activity_logger - INFO - Successful login for email: alin@gmail.com
+2024-05-02 09:54:52,966 - user_activity_logger - INFO - Successful login for email: alin@gmail.com
+2024-05-02 09:54:52,966 - user_activity_logger - INFO - Successful login for email: alin@gmail.com
+2024-05-02 09:54:57,610 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 09:54:57,610 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 09:54:57,610 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 09:54:57,610 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:03:03,660 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:03:03,660 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:03:03,660 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:03:37,238 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:03:37,238 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:03:37,238 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:11:42,307 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:11:42,307 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:11:42,307 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:12:32,602 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:12:32,602 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:12:32,602 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:12:33,239 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:12:33,239 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:12:33,239 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:12:33,239 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:12:33,389 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:12:33,389 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:12:33,389 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:12:33,389 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:12:33,389 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:34,604 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:34,604 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:34,604 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:35,375 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:35,375 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:35,375 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:35,375 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:43,699 - user_activity_logger - INFO - Login attempt for email: ece@gmail.com
+2024-05-02 10:16:43,699 - user_activity_logger - INFO - Login attempt for email: ece@gmail.com
+2024-05-02 10:16:43,699 - user_activity_logger - INFO - Login attempt for email: ece@gmail.com
+2024-05-02 10:16:43,699 - user_activity_logger - INFO - Login attempt for email: ece@gmail.com
+2024-05-02 10:16:46,016 - user_activity_logger - INFO - Successful login for email: ece@gmail.com
+2024-05-02 10:16:46,016 - user_activity_logger - INFO - Successful login for email: ece@gmail.com
+2024-05-02 10:16:46,016 - user_activity_logger - INFO - Successful login for email: ece@gmail.com
+2024-05-02 10:16:46,016 - user_activity_logger - INFO - Successful login for email: ece@gmail.com
+2024-05-02 10:16:50,725 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:50,725 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:50,725 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:50,725 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:50,725 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:55,440 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('23', 9)
+2024-05-02 10:16:55,440 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('23', 9)
+2024-05-02 10:16:55,440 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('23', 9)
+2024-05-02 10:16:55,440 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('23', 9)
+2024-05-02 10:16:55,440 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('23', 9)
+2024-05-02 10:16:55,440 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('23', 9)
+2024-05-02 10:16:58,569 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:58,569 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:58,569 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:58,569 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:58,569 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:58,569 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:16:58,569 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:30:16,290 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:30:16,290 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:30:16,290 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:30:30,086 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('22', 15)
+2024-05-02 10:30:30,086 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('22', 15)
+2024-05-02 10:30:30,086 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('22', 15)
+2024-05-02 10:30:30,086 - user_activity_logger - INFO - Executed update operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('22', 15)
+2024-05-02 10:30:32,922 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:30:32,922 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:30:32,922 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:30:32,922 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:30:32,922 - user_activity_logger - INFO - Executed select operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:35:25,893 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:35:25,893 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:35:25,893 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:35:37,499 - user_activity_logger - INFO - Login attempt for email: ece@gmail.com
+2024-05-02 10:35:37,499 - user_activity_logger - INFO - Login attempt for email: ece@gmail.com
+2024-05-02 10:35:37,499 - user_activity_logger - INFO - Login attempt for email: ece@gmail.com
+2024-05-02 10:35:39,838 - user_activity_logger - INFO - Successful login for email: ece@gmail.com
+2024-05-02 10:35:39,838 - user_activity_logger - INFO - Successful login for email: ece@gmail.com
+2024-05-02 10:35:39,838 - user_activity_logger - INFO - Successful login for email: ece@gmail.com
+2024-05-02 10:35:44,814 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:35:44,814 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:35:44,814 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:35:44,814 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:35:50,940 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('22', 6)
+2024-05-02 10:35:50,940 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('22', 6)
+2024-05-02 10:35:50,940 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('22', 6)
+2024-05-02 10:35:50,940 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('22', 6)
+2024-05-02 10:35:50,940 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('22', 6)
+2024-05-02 10:35:53,728 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:35:53,728 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:35:53,728 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:35:53,728 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:35:53,728 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 10:35:53,728 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 11:24:02,344 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 11:24:02,344 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 11:24:02,344 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 11:24:15,025 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-02 11:24:15,025 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-02 11:24:15,025 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-02 11:24:17,334 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-02 11:24:17,334 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-02 11:24:17,334 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-02 11:24:22,606 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 11:24:22,606 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 11:24:22,606 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 11:24:22,606 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 11:24:27,188 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('23', 6)
+2024-05-02 11:24:27,188 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('23', 6)
+2024-05-02 11:24:27,188 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('23', 6)
+2024-05-02 11:24:27,188 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('23', 6)
+2024-05-02 11:24:27,188 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('23', 6)
+2024-05-02 11:24:30,096 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 11:24:30,096 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 11:24:30,096 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 11:24:30,096 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 11:24:30,096 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 11:24:30,096 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:28:07,703 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:28:07,703 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:28:07,703 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:28:21,438 - user_activity_logger - INFO - Login attempt for email: ece@gmail.com
+2024-05-02 17:28:21,438 - user_activity_logger - INFO - Login attempt for email: ece@gmail.com
+2024-05-02 17:28:21,438 - user_activity_logger - INFO - Login attempt for email: ece@gmail.com
+2024-05-02 17:28:23,808 - user_activity_logger - INFO - Successful login for email: ece@gmail.com
+2024-05-02 17:28:23,808 - user_activity_logger - INFO - Successful login for email: ece@gmail.com
+2024-05-02 17:28:23,808 - user_activity_logger - INFO - Successful login for email: ece@gmail.com
+2024-05-02 17:28:27,199 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:28:27,199 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:28:27,199 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:28:27,199 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:31:10,910 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:31:10,910 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:31:10,910 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:31:11,650 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:31:11,650 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:31:11,650 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:31:11,650 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:31:19,592 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('15', 14)
+2024-05-02 17:31:19,592 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('15', 14)
+2024-05-02 17:31:19,592 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('15', 14)
+2024-05-02 17:31:19,592 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('15', 14)
+2024-05-02 17:31:19,592 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('15', 14)
+2024-05-02 17:31:23,315 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:31:23,315 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:31:23,315 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:31:23,315 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:31:23,315 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-02 17:31:23,315 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 08:44:35,723 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 08:44:35,723 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 08:44:35,723 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 08:44:55,842 - user_activity_logger - INFO - Login attempt for email: selin@gmail.com
+2024-05-06 08:44:55,842 - user_activity_logger - INFO - Login attempt for email: selin@gmail.com
+2024-05-06 08:44:55,842 - user_activity_logger - INFO - Login attempt for email: selin@gmail.com
+2024-05-06 08:44:58,238 - user_activity_logger - INFO - Successful login for email: selin@gmail.com
+2024-05-06 08:44:58,238 - user_activity_logger - INFO - Successful login for email: selin@gmail.com
+2024-05-06 08:44:58,238 - user_activity_logger - INFO - Successful login for email: selin@gmail.com
+2024-05-06 08:45:05,643 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 08:45:05,643 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 08:45:05,643 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 08:45:05,643 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 08:45:13,026 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('26', 9)
+2024-05-06 08:45:13,026 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('26', 9)
+2024-05-06 08:45:13,026 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('26', 9)
+2024-05-06 08:45:13,026 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('26', 9)
+2024-05-06 08:45:13,026 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('26', 9)
+2024-05-06 08:45:16,778 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 08:45:16,778 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 08:45:16,778 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 08:45:16,778 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 08:45:16,778 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 08:45:16,778 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:25:11,257 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:25:11,257 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:25:55,545 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:25:55,545 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:26:56,792 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:26:56,792 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:27:02,045 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('20', 1)
+2024-05-06 13:27:02,045 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('20', 1)
+2024-05-06 13:27:04,732 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:27:04,732 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:28:29,722 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:28:29,722 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:28:35,450 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('15',)
+2024-05-06 13:28:35,450 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('15',)
+2024-05-06 13:28:36,352 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:28:36,352 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:28:42,054 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:28:42,054 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:28:55,209 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('9',)
+2024-05-06 13:28:55,209 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('9',)
+2024-05-06 13:28:59,082 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:28:59,082 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:29:07,058 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%sel%',)
+2024-05-06 13:29:07,058 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%sel%',)
+2024-05-06 13:29:09,990 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 13:29:09,990 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 13:44:29,058 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:44:29,058 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:56:39,719 - user_activity_logger - INFO - Login attempt for email: alihan@gmail.com
+2024-05-06 13:56:39,719 - user_activity_logger - INFO - Login attempt for email: alihan@gmail.com
+2024-05-06 13:56:42,103 - user_activity_logger - INFO - Successful login for email: alihan@gmail.com
+2024-05-06 13:56:42,103 - user_activity_logger - INFO - Successful login for email: alihan@gmail.com
+2024-05-06 13:58:30,669 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('ozge', 'ozge@gmail.com', '25', '$2b$15$EuyYCGKaiEZDPJNFaMZoiOPR1a8g1nW1jdQqUH0i0EFIUx29ovkK6')
+2024-05-06 13:58:30,669 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('ozge', 'ozge@gmail.com', '25', '$2b$15$EuyYCGKaiEZDPJNFaMZoiOPR1a8g1nW1jdQqUH0i0EFIUx29ovkK6')
+2024-05-06 13:58:30,681 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 13:58:30,681 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 13:58:37,793 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 13:58:37,793 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 13:58:48,689 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 13:58:48,689 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 13:59:59,201 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 13:59:59,201 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 14:00:07,843 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('28', 16)
+2024-05-06 14:00:07,843 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('28', 16)
+2024-05-06 14:00:10,937 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 14:00:10,937 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 14:14:31,241 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-06 14:14:31,241 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-06 14:14:33,624 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-06 14:14:33,624 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-06 14:57:49,651 - user_activity_logger - INFO - Executed operation with query: SELECT * FROM users and params: None
+2024-05-06 14:57:49,651 - user_activity_logger - INFO - Executed operation with query: SELECT * FROM users and params: None
+2024-05-06 15:06:21,674 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 15:06:21,674 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 15:08:06,703 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 15:08:06,703 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 15:08:29,583 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 15:08:29,583 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 15:09:10,816 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 15:09:10,816 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 15:10:08,311 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 15:10:08,311 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 15:10:11,474 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 15:10:11,474 - user_activity_logger - INFO - Executed operation with query: SELECT  FROM users and params: None
+2024-05-06 15:11:21,565 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:11:21,565 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:11:30,598 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:11:30,598 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:11:39,567 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:11:39,567 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:12:21,671 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-06 15:12:21,671 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-06 15:12:24,049 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-06 15:12:24,049 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-06 15:12:35,964 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('ege', 'ege@gmail.com', '22', '$2b$15$Uu2KP.Zkyi0N26FgOEcOUeK.Lh68tlVaFnsL01AtZfxHHQjI7I4nW')
+2024-05-06 15:12:35,964 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('ege', 'ege@gmail.com', '22', '$2b$15$Uu2KP.Zkyi0N26FgOEcOUeK.Lh68tlVaFnsL01AtZfxHHQjI7I4nW')
+2024-05-06 15:12:35,976 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:12:35,976 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:12:45,354 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:12:45,354 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:22:38,687 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:22:38,687 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:37:38,810 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:37:38,810 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:38:46,221 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:38:46,221 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:38:46,808 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:38:46,808 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:42:13,491 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-06 15:42:13,491 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-06 15:42:15,872 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-06 15:42:15,872 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-06 15:42:24,094 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 15:42:24,094 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 15:42:57,259 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 15:42:57,259 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 15:43:23,028 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('bo', 'bo@gmail.com', '22', '$2b$15$MdZEq04rw8skZVZlHzAX4OrFH6zxrRn9KQotohEklgtu446fMZdH2')
+2024-05-06 15:43:23,028 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('bo', 'bo@gmail.com', '22', '$2b$15$MdZEq04rw8skZVZlHzAX4OrFH6zxrRn9KQotohEklgtu446fMZdH2')
+2024-05-06 15:43:23,050 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 15:43:23,050 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 15:43:32,592 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 15:43:32,592 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 15:43:39,175 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('20',)
+2024-05-06 15:43:39,175 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('20',)
+2024-05-06 15:43:40,542 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 15:43:40,542 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 15:45:02,019 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 15:45:02,019 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 15:45:17,165 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('bo', 'bo@gmail.com', '22', '$2b$15$70mw26K9WilKmOZhFFN6Xu0OT3Kob3TGR5PdGPlrFPBijdqcKc/cK')
+2024-05-06 15:45:17,165 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('bo', 'bo@gmail.com', '22', '$2b$15$70mw26K9WilKmOZhFFN6Xu0OT3Kob3TGR5PdGPlrFPBijdqcKc/cK')
+2024-05-06 15:45:17,199 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 15:45:17,199 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 15:45:58,569 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 15:45:58,569 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 15:46:39,592 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 15:46:39,592 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 15:55:06,563 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:55:06,563 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:55:55,089 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('nilakay', 'sevdanilakay@icloud.com', '21', '$2b$15$NiHQoCKp7joKZ7zszokk5ulkPwNxwyVhvlCWuc0NgjGBdx8M.X8fW')
+2024-05-06 15:55:55,089 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('nilakay', 'sevdanilakay@icloud.com', '21', '$2b$15$NiHQoCKp7joKZ7zszokk5ulkPwNxwyVhvlCWuc0NgjGBdx8M.X8fW')
+2024-05-06 15:55:55,103 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:55:55,103 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:56:08,193 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 15:56:08,193 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users and params: None
+2024-05-06 16:01:46,250 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age,id FROM users and params: None
+2024-05-06 16:01:46,250 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age,id FROM users and params: None
+2024-05-06 16:02:18,841 - user_activity_logger - INFO - Executed operation with query: SELECT id,username, email, age FROM users and params: None
+2024-05-06 16:02:18,841 - user_activity_logger - INFO - Executed operation with query: SELECT id,username, email, age FROM users and params: None
+2024-05-06 16:04:57,357 - user_activity_logger - INFO - Executed operation with query: SELECT id,username, email, age FROM users and params: None
+2024-05-06 16:04:57,357 - user_activity_logger - INFO - Executed operation with query: SELECT id,username, email, age FROM users and params: None
+2024-05-06 16:07:56,787 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-06 16:07:56,787 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-06 16:07:59,161 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-06 16:07:59,161 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-06 16:08:08,546 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 16:08:08,546 - user_activity_logger - INFO - Executed operation with query: SELECT username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 16:09:46,035 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:09:46,035 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:09:50,024 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('22',)
+2024-05-06 16:09:50,024 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('22',)
+2024-05-06 16:09:50,834 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:09:50,834 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:10:05,721 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:10:05,721 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:10:07,606 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('19',)
+2024-05-06 16:10:07,606 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('19',)
+2024-05-06 16:10:08,880 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:10:08,880 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:10:20,865 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('ege', 'ege@gmail.com', '23', '$2b$15$ddK65PqVgZWA5lcHXLKFJ.I5ZPslA/NPAEE8MwEf2Ru81KjT9G/.q')
+2024-05-06 16:10:20,865 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('ege', 'ege@gmail.com', '23', '$2b$15$ddK65PqVgZWA5lcHXLKFJ.I5ZPslA/NPAEE8MwEf2Ru81KjT9G/.q')
+2024-05-06 16:10:20,902 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:10:20,902 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:10:30,445 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:10:30,445 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:10:54,726 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%ap%',)
+2024-05-06 16:10:54,726 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%ap%',)
+2024-05-06 16:10:57,398 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:10:57,398 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:11:00,790 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:11:00,790 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:11:02,698 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('16',)
+2024-05-06 16:11:02,698 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('16',)
+2024-05-06 16:11:03,631 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:11:03,631 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:18:35,978 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:18:35,978 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:18:41,834 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('24', 18)
+2024-05-06 16:18:41,834 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('24', 18)
+2024-05-06 16:18:44,856 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:18:44,856 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:18:59,760 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('bera', 'bera@gmail.com', '22', '$2b$15$Dhb5P/awjLHqAsirjfgBxem/7RahuwDxRxjOLd/qfQRXt7sRTNcuG')
+2024-05-06 16:18:59,760 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('bera', 'bera@gmail.com', '22', '$2b$15$Dhb5P/awjLHqAsirjfgBxem/7RahuwDxRxjOLd/qfQRXt7sRTNcuG')
+2024-05-06 16:18:59,773 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:18:59,773 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:19:08,949 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:19:08,949 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:19:52,443 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('23',)
+2024-05-06 16:19:52,443 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('23',)
+2024-05-06 16:19:53,455 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:19:53,455 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:20:07,035 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('ege', 'ege@gmail.com', '22', '$2b$15$k21BfpXpgXAE0Ph1kxDm.ORAnvafQsaIPYrOuSmIfEZYX5kZfcRnS')
+2024-05-06 16:20:07,035 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('ege', 'ege@gmail.com', '22', '$2b$15$k21BfpXpgXAE0Ph1kxDm.ORAnvafQsaIPYrOuSmIfEZYX5kZfcRnS')
+2024-05-06 16:20:07,058 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:20:07,058 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:20:11,797 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:20:11,797 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:20:27,495 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:20:27,495 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:20:47,096 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('feyza', 'feyza@gmail.com', '45', '$2b$15$qpexxBph/iFvBb8v93i3u.KYhT/3xEp5xkrF9SyCJGCVF7FOHFQ1m')
+2024-05-06 16:20:47,096 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('feyza', 'feyza@gmail.com', '45', '$2b$15$qpexxBph/iFvBb8v93i3u.KYhT/3xEp5xkrF9SyCJGCVF7FOHFQ1m')
+2024-05-06 16:20:47,133 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:20:47,133 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:20:50,560 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:20:50,560 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:21:16,764 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 16:21:16,764 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 16:21:24,086 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:21:24,086 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:21:27,935 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('17',)
+2024-05-06 16:21:27,935 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('17',)
+2024-05-06 16:21:28,782 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:21:28,782 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:21:37,349 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%ap%',)
+2024-05-06 16:21:37,349 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE name LIKE %s and params: ('%ap%',)
+2024-05-06 16:22:02,391 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('4',)
+2024-05-06 16:22:02,391 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('4',)
+2024-05-06 16:22:05,303 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('5',)
+2024-05-06 16:22:05,303 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('5',)
+2024-05-06 16:22:13,180 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:22:13,180 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:22:17,473 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-06 16:22:17,473 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item and params: None
+2024-05-06 16:22:26,565 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('6',)
+2024-05-06 16:22:26,565 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('6',)
+2024-05-06 16:23:21,970 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:23:21,970 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:23:27,618 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:23:27,618 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:23:30,552 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:23:30,552 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:23:30,734 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:23:30,734 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:23:30,910 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:23:30,910 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:23:41,885 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:23:41,885 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:24:12,051 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-06 16:24:12,051 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-06 16:24:14,409 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-06 16:24:14,409 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-06 16:24:22,044 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 16:24:22,044 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 16:24:34,433 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('6',)
+2024-05-06 16:24:34,433 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE price = %s and params: ('6',)
+2024-05-06 16:24:53,835 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE id = %s and params: ('1',)
+2024-05-06 16:24:53,835 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE id = %s and params: ('1',)
+2024-05-06 16:25:00,621 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('1',)
+2024-05-06 16:25:00,621 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('1',)
+2024-05-06 16:25:04,294 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('19',)
+2024-05-06 16:25:04,294 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('19',)
+2024-05-06 16:25:07,140 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('27',)
+2024-05-06 16:25:07,140 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('27',)
+2024-05-06 16:25:07,899 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('27',)
+2024-05-06 16:25:07,899 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('27',)
+2024-05-06 16:25:08,314 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('27',)
+2024-05-06 16:25:08,314 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('27',)
+2024-05-06 16:25:10,996 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('21',)
+2024-05-06 16:25:10,996 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('21',)
+2024-05-06 16:25:14,688 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('19',)
+2024-05-06 16:25:14,688 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('19',)
+2024-05-06 16:25:17,730 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:25:17,730 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:25:26,118 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('24',)
+2024-05-06 16:25:26,118 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('24',)
+2024-05-06 16:31:26,225 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('ozge', 'ozge@gmail.com', '24', '$2b$15$iUIaIBhC0SLqp1v7ARr5R.EsMSMZpKRevfxV699Pc5sOrd6v1MJ.6')
+2024-05-06 16:31:26,225 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('ozge', 'ozge@gmail.com', '24', '$2b$15$iUIaIBhC0SLqp1v7ARr5R.EsMSMZpKRevfxV699Pc5sOrd6v1MJ.6')
+2024-05-06 16:31:26,243 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:31:26,243 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:33:15,725 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:33:15,725 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:33:18,119 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('27',)
+2024-05-06 16:33:18,119 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('27',)
+2024-05-06 16:33:18,887 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:33:18,887 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:33:45,260 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('alkim', 'alkim@gmail.com', '22', '$2b$15$2GoNsTI59IFaszgnIx285.R6yqv3wTz/6VQC/9R1AI3CmYH/WKfui')
+2024-05-06 16:33:45,260 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('alkim', 'alkim@gmail.com', '22', '$2b$15$2GoNsTI59IFaszgnIx285.R6yqv3wTz/6VQC/9R1AI3CmYH/WKfui')
+2024-05-06 16:33:45,283 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:33:45,283 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:33:48,021 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:33:48,021 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:33:58,240 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('5',)
+2024-05-06 16:33:58,240 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('5',)
+2024-05-06 16:34:02,490 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('18',)
+2024-05-06 16:34:02,490 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('18',)
+2024-05-06 16:34:04,656 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('1',)
+2024-05-06 16:34:04,656 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('1',)
+2024-05-06 16:34:09,617 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE id = %s and params: ('1',)
+2024-05-06 16:34:09,617 - user_activity_logger - INFO - Executed operation with query: SELECT id, name, quantity, price FROM item WHERE id = %s and params: ('1',)
+2024-05-06 16:36:28,199 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:36:28,199 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:37:09,451 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:37:09,451 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:41:20,552 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:41:20,552 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:41:38,817 - user_activity_logger - INFO - Login attempt for email: alkim@gmail.com
+2024-05-06 16:41:38,817 - user_activity_logger - INFO - Login attempt for email: alkim@gmail.com
+2024-05-06 16:41:41,187 - user_activity_logger - INFO - Successful login for email: alkim@gmail.com
+2024-05-06 16:41:41,187 - user_activity_logger - INFO - Successful login for email: alkim@gmail.com
+2024-05-06 16:41:45,230 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('28',)
+2024-05-06 16:41:45,230 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('28',)
+2024-05-06 16:41:49,635 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:41:49,635 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:42:05,460 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('alkim', 'alkim@gmail.com', '44', '$2b$15$6SPDEh9erccFqRzjKNmUA.1SDd/SHsbyLL1Es3RbcRkoEuDlrCsp.')
+2024-05-06 16:42:05,460 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('alkim', 'alkim@gmail.com', '44', '$2b$15$6SPDEh9erccFqRzjKNmUA.1SDd/SHsbyLL1Es3RbcRkoEuDlrCsp.')
+2024-05-06 16:42:05,479 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:42:05,479 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:42:12,946 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 16:42:12,946 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 16:44:56,666 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 16:44:56,666 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 16:54:10,036 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 16:54:10,036 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:02:01,022 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:02:01,022 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:02:10,415 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-06 17:02:10,415 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-06 17:02:12,759 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-06 17:02:12,759 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-06 17:02:17,081 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:02:17,081 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:02:20,444 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('21', 1)
+2024-05-06 17:02:20,444 - user_activity_logger - INFO - Executed operation with query: UPDATE users SET age = %s WHERE id = %s and params: ('21', 1)
+2024-05-06 17:02:23,010 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:02:23,010 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:02:57,417 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('29',)
+2024-05-06 17:02:57,417 - user_activity_logger - INFO - Executed operation with query: DELETE FROM users WHERE id = %s and params: ('29',)
+2024-05-06 17:02:58,461 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:02:58,461 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:03:14,043 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('alkim', 'alkim@gmail.com', '25', '$2b$15$okTFI2SrYAmZIZxGcP439u6Dj4gcJHQ94PSyYK3pFoQiuW6p4TmhK')
+2024-05-06 17:03:14,043 - user_activity_logger - INFO - Executed operation with query: INSERT INTO users (username, email, age, password) VALUES (%s, %s, %s, %s) and params: ('alkim', 'alkim@gmail.com', '25', '$2b$15$okTFI2SrYAmZIZxGcP439u6Dj4gcJHQ94PSyYK3pFoQiuW6p4TmhK')
+2024-05-06 17:03:14,073 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:03:14,073 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:03:18,203 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:03:18,203 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:03:25,683 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 17:03:25,683 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE username LIKE %s and params: ('%al%',)
+2024-05-06 17:05:25,132 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('1',)
+2024-05-06 17:05:25,132 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users WHERE id = %s and params: ('1',)
+2024-05-06 17:05:27,886 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:05:27,886 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:09:55,342 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:09:55,342 - user_activity_logger - INFO - Executed operation with query: SELECT id, username, email, age FROM users and params: None
+2024-05-06 17:20:19,163 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-06 17:20:21,503 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-13 10:38:57,833 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-13 10:39:00,252 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-05-13 15:58:10,524 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-05-13 15:58:12,950 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-10-27 18:47:50,254 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-10-27 18:47:52,597 - user_activity_logger - WARNING - Invalid login attempt for email: nil@gmail.com
+2024-10-27 18:47:57,051 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-10-27 18:47:59,363 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-10-28 21:29:24,116 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-10-28 21:29:25,131 - user_activity_logger - INFO - Login attempt for email: nil@gmail.com
+2024-10-28 21:29:26,506 - user_activity_logger - INFO - Successful login for email: nil@gmail.com
+2024-10-28 21:29:27,495 - user_activity_logger - INFO - Successful login for email: nil@gmail.com

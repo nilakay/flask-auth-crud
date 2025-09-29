@@ -1,0 +1,40 @@
+{
+    "item": [
+        {
+            "id": 1,
+            "name": "apple",
+            "quantity": 40,
+            "price": 4
+        },
+        {
+            "id": 2,
+            "name": "pear",
+            "quantity": 32,
+            "price": 3
+        },
+        {
+            "id": 3,
+            "name": "kiwi",
+            "quantity": 33,
+            "price": 5
+        },
+        {
+            "id": 4,
+            "name": "berry",
+            "quantity": 35,
+            "price": 3
+        },
+        {
+            "id": 5,
+            "name": "banana",
+            "quantity": 45,
+            "price": 3
+        },
+        {
+            "id": 6,
+            "name": "mango",
+            "quantity": 50,
+            "price": 8
+        }
+    ]
+}

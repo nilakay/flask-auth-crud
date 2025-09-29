@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Filter Records</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <h1 id="listTitle">List of Records</h1>
+    <select id="type" onchange="updateKeyOptions()">
+        <option value="">Select Type</option>
+        <option value="users">Users</option>
+        <option value="item">Items</option>
+    </select><br><br>
+
+    <select id="key">
+        <option value="">Select Key</option>
+    </select>
+    <input type="text" id="value" placeholder="Value"><br><br>
+
+    <button type="button" onclick="filterRecords()">Filter</button>
+
+    <div id="results"></div> 
+
+    <script>
+        function updateKeyOptions() {
+            const type = document.getElementById('type').value;
+            const keySelect = document.getElementById('key');
+            keySelect.innerHTML = '<option value="">Select Key</option>'; 
+            
+            const keyOptions = {
+                users: ["ID", "Username", "Email", "Age"], 
+                item: ["ID", "Name", "Quantity", "Price"] 
+            };
+            
+            if (keyOptions[type]) {
+                keyOptions[type].forEach(key => {
+                    const option = document.createElement("option");
+                    option.value = key.toLowerCase(); 
+                    option.text = key;
+                    keySelect.appendChild(option);
+                });
+            }
+        }
+
+        function filterRecords() {
+            const type = document.getElementById('type').value;
+            const key = document.getElementById('key').value;
+            const value = document.getElementById('value').value;
+
+            const data = {
+                type: type,
+                key: key,
+                value: value
+            };
+
+            $.ajax({
+                url: '/filter',
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(data),
+                headers: {
+                    'Authorization': 'Bearer ' + localStorage.getItem('accessToken')
+                },
+                success: function(response) {
+                    document.getElementById("listTitle").innerText = `List of ${type.charAt(0).toUpperCase() + type.slice(1)}`;
+                    displayResults(response, type);
+                },
+                error: function(error) {
+                    console.error('Error applying filter:', error);
+                    alert('Error applying filter.');
+                }
+            });
+        }
+
+        function displayResults(results, type) {
+            let html = '<table border="1"><thead><tr>';
+            if (type === 'users') {
+                html += '<th>ID</th><th>Username</th><th>Email</th><th>Age</th>';
+            } else if (type === 'item') {
+                html += '<th>ID</th><th>Name</th><th>Quantity</th><th>Price</th>';
+            }
+            html += '</tr></thead><tbody>';
+            
+            results.forEach(element => {
+                html += '<tr>';
+                Object.values(element).forEach(value => {
+                    html += `<td>${value}</td>`;
+                });
+                html += '</tr>';
+            });
+
+            html += '</tbody></table>';
+            document.getElementById('results').innerHTML = html;
+        }
+    </script>
+</body>
+<button onclick="redirectToMainPage()">Back to Main Page</button>
+</html>
+
+
+<script>
+    function redirectToMainPage() {
+        window.location.href = '/';
+    }
+</script>

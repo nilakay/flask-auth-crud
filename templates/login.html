@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        form {
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        label, input {
+            display: block;
+            width: 100%;
+            margin-top: 10px;
+        }
+        input {
+            padding: 10px;
+            margin-top: 5px;
+            box-sizing: border-box;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            margin-top: 20px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const form = document.querySelector("form");
+            form.onsubmit = async function(event) {
+                event.preventDefault();
+                const formData = new FormData(form);
+                const email = formData.get('email');
+                const password = formData.get('password');
+                try {
+                    const response = await fetch('/login', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ email, password })
+                    });
+
+                    if (!response.ok) {
+                        const errorText = await response.text();
+                        throw new Error(`Login failed: ${errorText}`);
+                    }
+
+                    const data = await response.json();
+                    if (data.access_token) {
+                        localStorage.setItem('accessToken', data.access_token);
+                        window.location.href = '/';
+                        alert('Login successful');
+                    } else {
+                        alert('Login successful, but no access token received.');
+                    }
+                } catch (error) {
+                    console.error('Login error:', error);
+                    alert(error.message);
+                }
+            };
+        });
+    </script>
+</head>
+<body>
+    <form>
+        <h2>Login</h2>
+        <label for="email">Email:</label>
+        <input type="text" id="email" name="email" required>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+        <button type="submit">Login</button>
+    </form>
+</body>
+</html>

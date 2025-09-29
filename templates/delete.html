@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Delete Record</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <h1>Delete Record</h1>
+    <form id="deleteForm" action="/delete" method="post" onsubmit="return submitDelete();">
+        <label for="recordId">Record ID:</label>
+        <input type="number" id="recordId" name="recordId" required><br><br>
+
+        <label for="typee">Type:</label>
+        <select id="typee" name="typee" required>
+            <option value="users">Users</option>
+            <option value="item">Items</option>
+        </select><br><br>
+
+        <button type="submit">Delete Record</button>
+    </form>
+
+    <button onclick="redirectToMainPage()">Back to Main Page</button>
+
+    <script>
+        function submitDelete() {
+            var form = $('#deleteForm');
+            $.ajax({
+                url: form.attr('action'),
+                type: 'DELETE',
+                contentType: "application/json",
+                data: JSON.stringify({
+                    "typee": $('#typee').val(),
+                    "recordId": $('#recordId').val(),
+                }),
+                headers: {
+                    'Authorization': 'Bearer ' + localStorage.getItem('accessToken')
+                },
+                success: function(response) {
+                    alert('Success!');
+                    redirectToMainPage();
+                },
+                error: function(xhr) {
+                    alert('Error: ' + xhr.responseText);
+                }
+            });
+            return false; 
+        }
+
+        function redirectToMainPage() {
+            window.location.href = '/';
+        }
+    </script>
+</body>
+</html>

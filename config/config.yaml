@@ -1,0 +1,68 @@
+users:
+  type: "users"
+  dict:
+    id: ""
+    username: ""
+    email: ""
+    age: ""
+    password: ""
+  numerical_keys:
+    - id
+    - age
+  add:
+    username: ""
+    email: ""
+    age: ""
+    password: ""
+  select:
+    id: ""
+    username: ""
+    email: ""
+    age: ""
+
+item:
+  type: "item"
+  dict:
+    id: ""
+    name: ""
+    quantity: ""
+    price: ""
+  numerical_keys:
+    - id
+    - price
+    - quantity
+  add:
+    name: ""
+    quantity: ""
+    price: ""
+  select:
+    id: ""
+    name: ""
+    quantity: ""
+    price: ""
+
+
+jwt_secret_key: "secret"
+
+
+auth_query: "SELECT password FROM users WHERE email = %s"
+add_query: "INSERT INTO {table} ({columns}) VALUES ({placeholders})"
+update_query: "UPDATE {table} SET {set_clause} WHERE id = %s"
+delete_query: "DELETE FROM {table} WHERE id = %s"
+filter_query1: "SELECT {columns} FROM {table} WHERE {key} = %s"
+filter_query2: "SELECT {columns} FROM {table} WHERE {key} LIKE %s"
+list_query: "SELECT {columns} FROM {table}"
+
+replacements:
+  add:
+    table: "{table}"
+    columns: "add"
+    placeholders: "{placeholders}"
+  update:
+    table: "{table}"
+    set_clause: "{set_clause}"
+  delete:
+    table: "{table}"
+  select:
+    columns: "select"
+    table: "{table}"

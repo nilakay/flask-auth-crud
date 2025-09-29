@@ -1,0 +1,16 @@
+2025-09-27 12:51:02,370 - error_logger - ERROR - Failed to execute: SELECT id, username, email, age FROM users with params None: relation "users" does not exist
+LINE 1: SELECT id, username, email, age FROM users
+                                             ^
+
+2025-09-27 12:51:02,370 - error_logger - ERROR - Failed to execute: SELECT id, username, email, age FROM users with params None: relation "users" does not exist
+LINE 1: SELECT id, username, email, age FROM users
+                                             ^
+
+2025-09-27 12:52:32,783 - error_logger - ERROR - Failed to execute: SELECT id, username, email, age FROM users with params None: relation "users" does not exist
+LINE 1: SELECT id, username, email, age FROM users
+                                             ^
+
+2025-09-27 12:52:32,783 - error_logger - ERROR - Failed to execute: SELECT id, username, email, age FROM users with params None: relation "users" does not exist
+LINE 1: SELECT id, username, email, age FROM users
+                                             ^
+

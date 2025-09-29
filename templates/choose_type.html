@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Choose List Type</title>
+</head>
+<body>
+    <form action="/list" method="get">
+        <select name="type" id="type">
+            <option value="users">Users</option>
+            <option value="item">Items</option>
+        </select>
+        <input type="submit" value="Show List">
+    </form>
+</body>
+</html>
+<script>
+    $('form').submit(function(event) {
+  event.preventDefault();
+  var type = $('#type').val();
+  $.ajax({
+    url: '/choose_type',
+    type: 'GET',
+    headers: {
+                    'Authorization': 'Bearer ' + localStorage.getItem('accessToken')
+                },
+    data: {type: type},
+    success: function(response) {
+      alert('Success!');
+    },
+    error: function(error) {
+      alert('Error!');
+    }
+  });
+});
+</script>

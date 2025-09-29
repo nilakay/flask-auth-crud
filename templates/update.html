@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Update Record</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            const type = $('#updateFormContainer').data('type');  
+            const id = $('#updateFormContainer').data('id');      
+        
+            if (type === 'users') {
+                $('#userFields').show();
+            } else if (type === 'item') {
+                $('#itemFields').show();
+            }
+        
+            window.submitUpdate = function() {
+                const data = { id: id, type: type };
+        
+                if (type === 'users') {
+                    ['username', 'email', 'age', 'password'].forEach(field => {
+                        const value = $('#' + field).val();
+                        if (value) data[field] = value;
+                    });
+                } else if (type === 'item') {
+                    ['name', 'quantity', 'price'].forEach(field => {
+                        const value = $('#' + field).val();
+                        if (value) data[field] = value;
+                    });
+                }
+        
+                $.ajax({
+                    url: '/update',
+                    type: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify(data),
+                    headers: {
+                        'Authorization': 'Bearer ' + localStorage.getItem('accessToken')
+                    },
+                    success: function(response) {
+                        alert('Record updated successfully.');
+                        redirectToMainPage();  
+                    },
+                    error: function(xhr) {
+                        alert('Error updating record: ' + xhr.responseText);
+                    }
+                });
+            };
+        });
+        </script>
+        
+</head>
+<body>
+    <h1>Update Record</h1>
+
+    <div id="userFields" style="display: none;">
+        <input type="text" id="username" placeholder="Username (optional)">
+        <input type="email" id="email" placeholder="Email (optional)">
+        <input type="number" id="age" placeholder="Age (optional)">
+        <input type="password" id="password" placeholder="Password (optional)">
+    </div>
+
+    <div id="itemFields" style="display: none;">
+        <input type="text" id="name" placeholder="Name (optional)">
+        <input type="number" id="quantity" placeholder="Quantity (optional)">
+        <input type="text" id="price" placeholder="Price (optional)">
+    </div>
+
+    <button type="button" onclick="submitUpdate()">Update</button>
+</body>
+<button onclick="redirectToMainPage()">Back to Main Page</button>
+</html>
+
+<script>
+    function redirectToMainPage() {
+        window.location.href = '/';
+    }
+</script>

@@ -1,0 +1,635 @@
+2024-04-29 13:29:20,728 - error_logger - ERROR - Login failed: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-04-29 13:29:51,141 - error_logger - ERROR - Login failed: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-04-29 13:45:56,679 - error_logger - ERROR - Login failed: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+2024-04-29 13:45:59,736 - error_logger - ERROR - Login failed: connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?2024-04-30 11:18:08,966 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:08,966 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:08,966 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:08,966 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:08,966 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:08,966 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:08,966 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:36,162 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:36,162 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:36,162 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:36,162 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:36,162 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:36,162 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:36,162 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:36,162 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:36,162 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:36,162 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:37,557 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:37,557 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:37,557 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:37,557 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:37,557 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:37,557 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:37,557 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:37,557 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:37,557 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:37,557 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:18:37,557 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:19:05,819 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:19:05,819 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:19:05,819 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:19:05,819 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:19:05,819 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:19:05,819 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:19:05,819 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:19:05,819 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:19:05,819 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:19:05,819 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:19:05,819 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:19:05,819 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:19:05,819 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 11:22:18,235 - error_logger - ERROR - Failed to add: column "password" of relation "item" does not exist
+LINE 1: INSERT INTO item (name, quantity, price, password) VALUES ('...
+                                                 ^
+
+2024-04-30 14:07:20,080 - error_logger - ERROR - Failed to select: syntax error at or near "{"
+LINE 1: SELECT {', '.join(id, username, email, age)} FROM users
+               ^
+
+2024-04-30 14:07:20,080 - error_logger - ERROR - Failed to select: syntax error at or near "{"
+LINE 1: SELECT {', '.join(id, username, email, age)} FROM users
+               ^
+
+2024-04-30 14:07:20,997 - error_logger - ERROR - Failed to select: syntax error at or near "{"
+LINE 1: SELECT {', '.join(id, username, email, age)} FROM users
+               ^
+
+2024-04-30 14:07:20,997 - error_logger - ERROR - Failed to select: syntax error at or near "{"
+LINE 1: SELECT {', '.join(id, username, email, age)} FROM users
+               ^
+
+2024-04-30 14:07:20,997 - error_logger - ERROR - Failed to select: syntax error at or near "{"
+LINE 1: SELECT {', '.join(id, username, email, age)} FROM users
+               ^
+
+2024-04-30 14:07:21,182 - error_logger - ERROR - Failed to select: syntax error at or near "{"
+LINE 1: SELECT {', '.join(id, username, email, age)} FROM users
+               ^
+
+2024-04-30 14:07:21,182 - error_logger - ERROR - Failed to select: syntax error at or near "{"
+LINE 1: SELECT {', '.join(id, username, email, age)} FROM users
+               ^
+
+2024-04-30 14:07:21,182 - error_logger - ERROR - Failed to select: syntax error at or near "{"
+LINE 1: SELECT {', '.join(id, username, email, age)} FROM users
+               ^
+
+2024-04-30 14:07:21,182 - error_logger - ERROR - Failed to select: syntax error at or near "{"
+LINE 1: SELECT {', '.join(id, username, email, age)} FROM users
+               ^
+
+2024-04-30 14:07:26,699 - error_logger - ERROR - Failed to select: syntax error at or near "{"
+LINE 1: SELECT {', '.join(id, username, email, age)} FROM users
+               ^
+
+2024-04-30 14:07:26,699 - error_logger - ERROR - Failed to select: syntax error at or near "{"
+LINE 1: SELECT {', '.join(id, username, email, age)} FROM users
+               ^
+
+2024-05-02 03:20:39,930 - error_logger - ERROR - Failed to select on SELECT id, username, email, age FROM users WHERE id = %s with params ('l',): invalid input syntax for type integer: "l"
+LINE 1: SELECT id, username, email, age FROM users WHERE id = 'l'
+                                                              ^
+
+2024-05-02 03:20:39,930 - error_logger - ERROR - Failed to select on SELECT id, username, email, age FROM users WHERE id = %s with params ('l',): invalid input syntax for type integer: "l"
+LINE 1: SELECT id, username, email, age FROM users WHERE id = 'l'
+                                                              ^
+
+2024-05-02 03:20:39,930 - error_logger - ERROR - Failed to select on SELECT id, username, email, age FROM users WHERE id = %s with params ('l',): invalid input syntax for type integer: "l"
+LINE 1: SELECT id, username, email, age FROM users WHERE id = 'l'
+                                                              ^
+
+2024-05-02 03:20:39,930 - error_logger - ERROR - Failed to select on SELECT id, username, email, age FROM users WHERE id = %s with params ('l',): invalid input syntax for type integer: "l"
+LINE 1: SELECT id, username, email, age FROM users WHERE id = 'l'
+                                                              ^
+
+2024-05-02 03:20:39,930 - error_logger - ERROR - Failed to select on SELECT id, username, email, age FROM users WHERE id = %s with params ('l',): invalid input syntax for type integer: "l"
+LINE 1: SELECT id, username, email, age FROM users WHERE id = 'l'
+                                                              ^
+
+2024-05-02 11:22:18,576 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: replace() argument 2 must be str, not dict
+2024-05-02 11:22:18,576 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: replace() argument 2 must be str, not dict
+2024-05-02 11:22:18,576 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: replace() argument 2 must be str, not dict
+2024-05-02 11:23:03,754 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: replace() argument 2 must be str, not dict
+2024-05-02 11:23:03,754 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: replace() argument 2 must be str, not dict
+2024-05-02 11:23:03,754 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: replace() argument 2 must be str, not dict
+2024-05-02 11:23:03,754 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: replace() argument 2 must be str, not dict
+2024-05-06 13:25:43,456 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('funda', 'funda@gmail.com', '44', '$2b$15$5ZESpGq/e7XpAg0AqoqQiOSVqSkZgMKGxatszcwI2ZORXyAilyKzS'): invalid input syntax for type integer: "funda"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('funda', '...
+                                                             ^
+
+2024-05-06 13:25:43,456 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('funda', 'funda@gmail.com', '44', '$2b$15$5ZESpGq/e7XpAg0AqoqQiOSVqSkZgMKGxatszcwI2ZORXyAilyKzS'): invalid input syntax for type integer: "funda"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('funda', '...
+                                                             ^
+
+2024-05-06 13:25:52,746 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('funda', 'funda@gmail.com', '44', '$2b$15$47fUizJ349aWvR3RgQiMbuMfCyGopo8YqmFUbdSYadRVOwZmzu7Ju'): invalid input syntax for type integer: "funda"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('funda', '...
+                                                             ^
+
+2024-05-06 13:25:52,746 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('funda', 'funda@gmail.com', '44', '$2b$15$47fUizJ349aWvR3RgQiMbuMfCyGopo8YqmFUbdSYadRVOwZmzu7Ju'): invalid input syntax for type integer: "funda"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('funda', '...
+                                                             ^
+
+2024-05-06 13:26:14,904 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('funda', 'funda@gmail.com', '44', '$2b$15$nm60YjpKLkMxU7zh3MZaOOvhenARlIaz4Gee3cZ2LbAuHFSPAXpVy'): invalid input syntax for type integer: "funda"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('funda', '...
+                                                             ^
+
+2024-05-06 13:26:14,904 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('funda', 'funda@gmail.com', '44', '$2b$15$nm60YjpKLkMxU7zh3MZaOOvhenARlIaz4Gee3cZ2LbAuHFSPAXpVy'): invalid input syntax for type integer: "funda"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('funda', '...
+                                                             ^
+
+2024-05-06 13:29:25,635 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('selin', 'selin@gmail.com', '26', '$2b$15$GwNFzvMV5AcebJgukrFo/OV58622TbdbURFbo1BuM8myxhfEhqGxm'): invalid input syntax for type integer: "selin"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('selin', '...
+                                                             ^
+
+2024-05-06 13:29:25,635 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('selin', 'selin@gmail.com', '26', '$2b$15$GwNFzvMV5AcebJgukrFo/OV58622TbdbURFbo1BuM8myxhfEhqGxm'): invalid input syntax for type integer: "selin"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('selin', '...
+                                                             ^
+
+2024-05-06 13:36:14,456 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('selin', 'sel@gma.com', 22, '$2b$15$wmDU4L9T2nQ.Es9KZIgwVuNewMurX4r0HkDIdfZV54Sw.oNyR3RpW'): invalid input syntax for type integer: "selin"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('selin', '...
+                                                             ^
+
+2024-05-06 13:36:14,456 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('selin', 'sel@gma.com', 22, '$2b$15$wmDU4L9T2nQ.Es9KZIgwVuNewMurX4r0HkDIdfZV54Sw.oNyR3RpW'): invalid input syntax for type integer: "selin"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('selin', '...
+                                                             ^
+
+2024-05-06 13:36:31,077 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('f', 'sel@gma.com', 22, '$2b$15$dYTKjZnJyh8GKqj/XiVmFO3iCUq7DOOVt4laNJQ9sYT2/wl3VygyG'): invalid input syntax for type integer: "f"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('f', 'sel@...
+                                                             ^
+
+2024-05-06 13:36:31,077 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('f', 'sel@gma.com', 22, '$2b$15$dYTKjZnJyh8GKqj/XiVmFO3iCUq7DOOVt4laNJQ9sYT2/wl3VygyG'): invalid input syntax for type integer: "f"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('f', 'sel@...
+                                                             ^
+
+2024-05-06 13:37:16,919 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('f', 'sel@gma.com', '22', '$2b$15$5rMwXDBIrFcgqyl2VgVDvelwsUIuqZLKmFi1qG23KyV5FW40d9.Ju'): invalid input syntax for type integer: "f"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('f', 'sel@...
+                                                             ^
+
+2024-05-06 13:37:16,919 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('f', 'sel@gma.com', '22', '$2b$15$5rMwXDBIrFcgqyl2VgVDvelwsUIuqZLKmFi1qG23KyV5FW40d9.Ju'): invalid input syntax for type integer: "f"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('f', 'sel@...
+                                                             ^
+
+2024-05-06 13:37:29,514 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('f', 'sel@gma.com', '22', '$2b$15$Nc201Ti0hvhzf4fIvzOmCuoeEWkiJ1q41tGWbmc.K6cWeqdpMvNie'): invalid input syntax for type integer: "f"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('f', 'sel@...
+                                                             ^
+
+2024-05-06 13:37:29,514 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('f', 'sel@gma.com', '22', '$2b$15$Nc201Ti0hvhzf4fIvzOmCuoeEWkiJ1q41tGWbmc.K6cWeqdpMvNie'): invalid input syntax for type integer: "f"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('f', 'sel@...
+                                                             ^
+
+2024-05-06 13:38:02,465 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('f', 'sel@gma.com', '22', '$2b$15$0Yq2isDYZDxWYBr3KId/F.MswiqR3/SMJUOg93GIGgdCyvLRx2.Oq'): invalid input syntax for type integer: "f"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('f', 'sel@...
+                                                             ^
+
+2024-05-06 13:38:02,465 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('f', 'sel@gma.com', '22', '$2b$15$0Yq2isDYZDxWYBr3KId/F.MswiqR3/SMJUOg93GIGgdCyvLRx2.Oq'): invalid input syntax for type integer: "f"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('f', 'sel@...
+                                                             ^
+
+2024-05-06 13:44:52,962 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('funda', 'funda@gmail.com', '44', '$2b$15$iwRv2IBs0SaXpTUAQq5k5ua5WemEPUy723OcutzM9AD0oYDqooZcy'): invalid input syntax for type integer: "funda"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('funda', '...
+                                                             ^
+
+2024-05-06 13:44:52,962 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('funda', 'funda@gmail.com', '44', '$2b$15$iwRv2IBs0SaXpTUAQq5k5ua5WemEPUy723OcutzM9AD0oYDqooZcy'): invalid input syntax for type integer: "funda"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('funda', '...
+                                                             ^
+
+2024-05-06 13:48:42,610 - error_logger - ERROR - Failed to execute: INSERT INTO users ({columns}) VALUES (%s, %s, %s, %s) with params ('funda', 'funda@gmail.com', '44', '$2b$15$.ykteySrR/./z3Z7uJYYPulaSWhfharxnTUBG/MhgmHYmaXXiNWtG'): syntax error at or near "{"
+LINE 1: INSERT INTO users ({columns}) VALUES ('funda', 'funda@gmail....
+                           ^
+
+2024-05-06 13:48:42,610 - error_logger - ERROR - Failed to execute: INSERT INTO users ({columns}) VALUES (%s, %s, %s, %s) with params ('funda', 'funda@gmail.com', '44', '$2b$15$.ykteySrR/./z3Z7uJYYPulaSWhfharxnTUBG/MhgmHYmaXXiNWtG'): syntax error at or near "{"
+LINE 1: INSERT INTO users ({columns}) VALUES ('funda', 'funda@gmail....
+                           ^
+
+2024-05-06 13:57:05,101 - error_logger - ERROR - Failed to execute: INSERT INTO users ({columns}) VALUES (%s, %s, %s, %s) with params ('ozge', 'ozge@gmail.com', '25', '$2b$15$bzcBZ9MCVURNkFfGcWzqseZFJKjSgIJ65yasWTjUNA1aOkk0ywJ1K'): syntax error at or near "{"
+LINE 1: INSERT INTO users ({columns}) VALUES ('ozge', 'ozge@gmail.co...
+                           ^
+
+2024-05-06 13:57:05,101 - error_logger - ERROR - Failed to execute: INSERT INTO users ({columns}) VALUES (%s, %s, %s, %s) with params ('ozge', 'ozge@gmail.com', '25', '$2b$15$bzcBZ9MCVURNkFfGcWzqseZFJKjSgIJ65yasWTjUNA1aOkk0ywJ1K'): syntax error at or near "{"
+LINE 1: INSERT INTO users ({columns}) VALUES ('ozge', 'ozge@gmail.co...
+                           ^
+
+2024-05-06 13:59:05,048 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 13:59:05,048 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 13:59:05,911 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 13:59:05,911 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 14:04:07,190 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('veli', 'veli@gmail.com', '33', '$2b$15$J4FEGnxhnovbfvon5hfl8.Ww5.WRKKzENgHacVM1eZ2F3fPc1qcnO'): invalid input syntax for type integer: "veli"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('veli', 'v...
+                                                             ^
+
+2024-05-06 14:04:07,190 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('veli', 'veli@gmail.com', '33', '$2b$15$J4FEGnxhnovbfvon5hfl8.Ww5.WRKKzENgHacVM1eZ2F3fPc1qcnO'): invalid input syntax for type integer: "veli"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('veli', 'v...
+                                                             ^
+
+2024-05-06 14:04:50,081 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('veli', 'veli@gmail.com', '33', '$2b$15$NOvbgE4hRPTlukPRudtxDOtmQZbKvAb14zB5tZssAFC2C424NQIrS'): invalid input syntax for type integer: "veli"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('veli', 'v...
+                                                             ^
+
+2024-05-06 14:04:50,081 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('veli', 'veli@gmail.com', '33', '$2b$15$NOvbgE4hRPTlukPRudtxDOtmQZbKvAb14zB5tZssAFC2C424NQIrS'): invalid input syntax for type integer: "veli"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('veli', 'v...
+                                                             ^
+
+2024-05-06 14:10:01,633 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('veli', 'veli@gmail.com', '33', '$2b$15$R2.4T3RLALGSVmXWInb.W.8yHLDrgDN7Dzbja3nszMN7KnktgVpse'): invalid input syntax for type integer: "veli"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('veli', 'v...
+                                                             ^
+
+2024-05-06 14:10:01,633 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age) VALUES (%s, %s, %s, %s) with params ('veli', 'veli@gmail.com', '33', '$2b$15$R2.4T3RLALGSVmXWInb.W.8yHLDrgDN7Dzbja3nszMN7KnktgVpse'): invalid input syntax for type integer: "veli"
+LINE 1: ...ERT INTO users (id, username, email, age) VALUES ('veli', 'v...
+                                                             ^
+
+2024-05-06 14:14:50,104 - error_logger - ERROR - Failed to execute: INSERT INTO users (username, email, age) VALUES (%s, %s, %s, %s) with params ('ozge', 'ozge@gmail.com', '24', '$2b$15$4ep.T7T3pNbRNCZnPrU42OnuEmb.li4t8iyAHaZRjIES8wj7UR4ry'): INSERT has more expressions than target columns
+LINE 1: ...ail, age) VALUES ('ozge', 'ozge@gmail.com', '24', '$2b$15$4e...
+                                                             ^
+
+2024-05-06 14:14:50,104 - error_logger - ERROR - Failed to execute: INSERT INTO users (username, email, age) VALUES (%s, %s, %s, %s) with params ('ozge', 'ozge@gmail.com', '24', '$2b$15$4ep.T7T3pNbRNCZnPrU42OnuEmb.li4t8iyAHaZRjIES8wj7UR4ry'): INSERT has more expressions than target columns
+LINE 1: ...ail, age) VALUES ('ozge', 'ozge@gmail.com', '24', '$2b$15$4e...
+                                                             ^
+
+2024-05-06 14:16:05,862 - error_logger - ERROR - Failed to execute: INSERT INTO users (username, email, age) VALUES (%s, %s, %s, %s) with params ('ozge', 'ozge@gmail.com', '24', '$2b$15$183IAJrUN8EO6xuhn9JBcup93cBdE43u4eU52pizfp1Gz/v6fer5C'): INSERT has more expressions than target columns
+LINE 1: ...ail, age) VALUES ('ozge', 'ozge@gmail.com', '24', '$2b$15$18...
+                                                             ^
+
+2024-05-06 14:16:05,862 - error_logger - ERROR - Failed to execute: INSERT INTO users (username, email, age) VALUES (%s, %s, %s, %s) with params ('ozge', 'ozge@gmail.com', '24', '$2b$15$183IAJrUN8EO6xuhn9JBcup93cBdE43u4eU52pizfp1Gz/v6fer5C'): INSERT has more expressions than target columns
+LINE 1: ...ail, age) VALUES ('ozge', 'ozge@gmail.com', '24', '$2b$15$18...
+                                                             ^
+
+2024-05-06 14:16:36,021 - error_logger - ERROR - Failed to execute: INSERT INTO users (username, email, age) VALUES (%s, %s, %s, %s) with params ('ozge', 'ozge@gmail.com', '24', '$2b$15$W.DdJnGWkyhAM8vZAQyftuJiHL9bIbT/WsLhaqCfxdySfsPF84m2G'): INSERT has more expressions than target columns
+LINE 1: ...ail, age) VALUES ('ozge', 'ozge@gmail.com', '24', '$2b$15$W....
+                                                             ^
+
+2024-05-06 14:16:36,021 - error_logger - ERROR - Failed to execute: INSERT INTO users (username, email, age) VALUES (%s, %s, %s, %s) with params ('ozge', 'ozge@gmail.com', '24', '$2b$15$W.DdJnGWkyhAM8vZAQyftuJiHL9bIbT/WsLhaqCfxdySfsPF84m2G'): INSERT has more expressions than target columns
+LINE 1: ...ail, age) VALUES ('ozge', 'ozge@gmail.com', '24', '$2b$15$W....
+                                                             ^
+
+2024-05-06 14:19:21,425 - error_logger - ERROR - Failed to execute: INSERT INTO users (username, email, age) VALUES (%s, %s, %s, %s) with params ('ozge', 'ozge@gmail.com', '24', '$2b$15$3CY8EIez3FI0pkFPrARwP.Rrub/pBJ.MXgAs5rD6D2A3rYWXctZly'): INSERT has more expressions than target columns
+LINE 1: ...ail, age) VALUES ('ozge', 'ozge@gmail.com', '24', '$2b$15$3C...
+                                                             ^
+
+2024-05-06 14:19:21,425 - error_logger - ERROR - Failed to execute: INSERT INTO users (username, email, age) VALUES (%s, %s, %s, %s) with params ('ozge', 'ozge@gmail.com', '24', '$2b$15$3CY8EIez3FI0pkFPrARwP.Rrub/pBJ.MXgAs5rD6D2A3rYWXctZly'): INSERT has more expressions than target columns
+LINE 1: ...ail, age) VALUES ('ozge', 'ozge@gmail.com', '24', '$2b$15$3C...
+                                                             ^
+
+2024-05-06 14:55:22,067 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: local variable 'cur' referenced before assignment
+2024-05-06 14:55:22,067 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: local variable 'cur' referenced before assignment
+2024-05-06 14:56:18,967 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: no results to fetch
+2024-05-06 14:56:18,967 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: no results to fetch
+2024-05-06 14:56:19,545 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: no results to fetch
+2024-05-06 14:56:19,545 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: no results to fetch
+2024-05-06 14:56:19,748 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: no results to fetch
+2024-05-06 14:56:19,748 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM {table} with params None: no results to fetch
+2024-05-06 14:56:47,704 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 14:56:47,704 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 14:56:48,585 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 14:56:48,585 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 14:56:48,749 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 14:56:48,749 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 14:58:35,012 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 14:58:35,012 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 15:00:20,782 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 15:00:20,782 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 15:00:22,566 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 15:00:22,566 - error_logger - ERROR - Failed to execute: SELECT {columns} FROM users with params None: syntax error at or near "{"
+LINE 1: SELECT {columns} FROM users
+               ^
+
+2024-05-06 15:53:21,812 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age, password) VALUES (%s, %s, %s, %s, %s) with params (None, 'bera', 'bera@gmail.com', '21', '$2b$15$uDn0Dn8mt9lqILuw1tdBx.sYsOwCioHTbHV1zoAb5HX.yBA6qvdXu'): null value in column "id" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (bera, bera@gmail.com, 21, $2b$15$uDn0Dn8mt9lqILuw1tdBx.sYsOwCioHTbHV1zoAb5HX.yBA6qvdXu, null).
+
+2024-05-06 15:53:21,812 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age, password) VALUES (%s, %s, %s, %s, %s) with params (None, 'bera', 'bera@gmail.com', '21', '$2b$15$uDn0Dn8mt9lqILuw1tdBx.sYsOwCioHTbHV1zoAb5HX.yBA6qvdXu'): null value in column "id" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (bera, bera@gmail.com, 21, $2b$15$uDn0Dn8mt9lqILuw1tdBx.sYsOwCioHTbHV1zoAb5HX.yBA6qvdXu, null).
+
+2024-05-06 15:53:56,720 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age, password) VALUES (%s, %s, %s, %s, %s) with params (None, 'bera', 'bera@gmail.com', '21', '$2b$15$mnQGWxVCrQPOyap9rZxL9eOsoqBk6o2uQr44QP8cfvpB5udQJHTWq'): null value in column "id" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (bera, bera@gmail.com, 21, $2b$15$mnQGWxVCrQPOyap9rZxL9eOsoqBk6o2uQr44QP8cfvpB5udQJHTWq, null).
+
+2024-05-06 15:53:56,720 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age, password) VALUES (%s, %s, %s, %s, %s) with params (None, 'bera', 'bera@gmail.com', '21', '$2b$15$mnQGWxVCrQPOyap9rZxL9eOsoqBk6o2uQr44QP8cfvpB5udQJHTWq'): null value in column "id" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (bera, bera@gmail.com, 21, $2b$15$mnQGWxVCrQPOyap9rZxL9eOsoqBk6o2uQr44QP8cfvpB5udQJHTWq, null).
+
+2024-05-06 15:54:10,839 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age, password) VALUES (%s, %s, %s, %s, %s) with params (None, 'bera', 'bera@gmail.com', '21', '$2b$15$xTBObd25egMGQT4TWOOOUOncw8zgVnMw1LR.ZNOOlSomHeToZalbu'): null value in column "id" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (bera, bera@gmail.com, 21, $2b$15$xTBObd25egMGQT4TWOOOUOncw8zgVnMw1LR.ZNOOlSomHeToZalbu, null).
+
+2024-05-06 15:54:10,839 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age, password) VALUES (%s, %s, %s, %s, %s) with params (None, 'bera', 'bera@gmail.com', '21', '$2b$15$xTBObd25egMGQT4TWOOOUOncw8zgVnMw1LR.ZNOOlSomHeToZalbu'): null value in column "id" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (bera, bera@gmail.com, 21, $2b$15$xTBObd25egMGQT4TWOOOUOncw8zgVnMw1LR.ZNOOlSomHeToZalbu, null).
+
+2024-05-06 15:56:11,562 - error_logger - ERROR - Failed to execute: DELETE FROM users WHERE id = %s with params ('nilakay',): invalid input syntax for type integer: "nilakay"
+LINE 1: DELETE FROM users WHERE id = 'nilakay'
+                                     ^
+
+2024-05-06 15:56:11,562 - error_logger - ERROR - Failed to execute: DELETE FROM users WHERE id = %s with params ('nilakay',): invalid input syntax for type integer: "nilakay"
+LINE 1: DELETE FROM users WHERE id = 'nilakay'
+                                     ^
+
+2024-05-06 15:56:16,647 - error_logger - ERROR - Failed to execute: DELETE FROM users WHERE id = %s with params ('nilakay',): invalid input syntax for type integer: "nilakay"
+LINE 1: DELETE FROM users WHERE id = 'nilakay'
+                                     ^
+
+2024-05-06 15:56:16,647 - error_logger - ERROR - Failed to execute: DELETE FROM users WHERE id = %s with params ('nilakay',): invalid input syntax for type integer: "nilakay"
+LINE 1: DELETE FROM users WHERE id = 'nilakay'
+                                     ^
+
+2024-05-06 16:00:13,251 - error_logger - ERROR - Failed to execute: SELECT * EXCEPT (password) FROM users with params None: syntax error at or near "password"
+LINE 1: SELECT * EXCEPT (password) FROM users
+                         ^
+
+2024-05-06 16:00:13,251 - error_logger - ERROR - Failed to execute: SELECT * EXCEPT (password) FROM users with params None: syntax error at or near "password"
+LINE 1: SELECT * EXCEPT (password) FROM users
+                         ^
+
+2024-05-06 16:11:21,436 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age, password) VALUES (%s, %s, %s, %s, %s) with params (None, 'selin', 'selin@gmail.com', '25', '$2b$15$miAeHuKfeHW/ECu17CgXhuKN488ebQJYEsrDve4Iqm112/2CtPU6e'): null value in column "id" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (selin, selin@gmail.com, 25, $2b$15$miAeHuKfeHW/ECu17CgXhuKN488ebQJYEsrDve4Iqm112/2CtPU6e, null).
+
+2024-05-06 16:11:21,436 - error_logger - ERROR - Failed to execute: INSERT INTO users (id, username, email, age, password) VALUES (%s, %s, %s, %s, %s) with params (None, 'selin', 'selin@gmail.com', '25', '$2b$15$miAeHuKfeHW/ECu17CgXhuKN488ebQJYEsrDve4Iqm112/2CtPU6e'): null value in column "id" of relation "users" violates not-null constraint
+DETAIL:  Failing row contains (selin, selin@gmail.com, 25, $2b$15$miAeHuKfeHW/ECu17CgXhuKN488ebQJYEsrDve4Iqm112/2CtPU6e, null).
+
+2024-05-06 16:21:44,277 - error_logger - ERROR - Failed to execute: SELECT id, name, quantity, price FROM item WHERE id LIKE %s with params ('%6%',): operator does not exist: integer ~~ unknown
+LINE 1: ...LECT id, name, quantity, price FROM item WHERE id LIKE '%6%'
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+2024-05-06 16:21:44,277 - error_logger - ERROR - Failed to execute: SELECT id, name, quantity, price FROM item WHERE id LIKE %s with params ('%6%',): operator does not exist: integer ~~ unknown
+LINE 1: ...LECT id, name, quantity, price FROM item WHERE id LIKE '%6%'
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+2024-05-06 16:21:46,383 - error_logger - ERROR - Failed to execute: SELECT id, name, quantity, price FROM item WHERE id LIKE %s with params ('%6%',): operator does not exist: integer ~~ unknown
+LINE 1: ...LECT id, name, quantity, price FROM item WHERE id LIKE '%6%'
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+2024-05-06 16:21:46,383 - error_logger - ERROR - Failed to execute: SELECT id, name, quantity, price FROM item WHERE id LIKE %s with params ('%6%',): operator does not exist: integer ~~ unknown
+LINE 1: ...LECT id, name, quantity, price FROM item WHERE id LIKE '%6%'
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+2024-05-06 16:24:29,545 - error_logger - ERROR - Failed to execute: SELECT id, name, quantity, price FROM item WHERE id LIKE %s with params ('%1%',): operator does not exist: integer ~~ unknown
+LINE 1: ...LECT id, name, quantity, price FROM item WHERE id LIKE '%1%'
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+2024-05-06 16:24:29,545 - error_logger - ERROR - Failed to execute: SELECT id, name, quantity, price FROM item WHERE id LIKE %s with params ('%1%',): operator does not exist: integer ~~ unknown
+LINE 1: ...LECT id, name, quantity, price FROM item WHERE id LIKE '%1%'
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+

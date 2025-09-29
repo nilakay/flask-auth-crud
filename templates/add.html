@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Record</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        function toggleFields() {
+            var type = document.getElementById("type").value;
+            document.getElementById("userFields").style.display = type === "users" ? "block" : "none";
+            document.getElementById("itemFields").style.display = type === "item" ? "block" : "none";
+        }
+    </script>
+</head>
+<body onload="toggleFields()">
+    <form id="addForm">
+        <select name="type" id="type" onchange="toggleFields()">
+            <option value="users">User</option>
+            <option value="item">Item</option>
+        </select>
+        <div id="userFields" style="display: none;">
+            <input type="text" name="username" placeholder="Username" id="username"><br>
+            <input type="email" name="email" placeholder="Email" id="email"><br>
+            <input type="number" name="age" placeholder="Age" id="age"><br>
+            <input type="password" name="password" placeholder="Password" id="password"><br>
+        </div>
+        <div id="itemFields" style="display: none;">
+            <input type="text" name="name" placeholder="Item Name" id="name"><br>
+            <input type="number" name="quantity" placeholder="Quantity" id="quantity"><br>
+            <input type="text" name="price" placeholder="Price" id="price"><br>
+        </div>
+        <button type="submit">Add Record</button>
+    </form>
+</body>
+<button onclick="redirectToMainPage()">Back to Main Page</button>
+</html>
+
+<script> 
+
+$(document).ready(function() {
+    $('#addForm').submit(function(event) {
+        event.preventDefault();
+        var formData = $(this).serialize(); 
+        $.ajax({
+            url: '/add',
+            type: 'POST',
+            data: formData,
+            headers: {
+                    'Authorization': 'Bearer ' + localStorage.getItem('accessToken')
+                },
+            success: function(response) {
+                doSomethingWith(response.company);
+                alert('Success!');
+            },
+            error: function(error) {
+                alert('Error!');
+            }
+        });
+    });
+});
+
+    function redirectToMainPage() {
+            window.location.href = '/';
+        }
+
+</script>
