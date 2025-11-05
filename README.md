@@ -1,12 +1,13 @@
 # Flask Auth CRUD
+
+A Flask-based web application that demonstrates **user authentication** and **CRUD (Create, Read, Update, Delete) operations** with a PostgreSQL database.
+
 <img width="263" height="383" alt="Pasted Graphic 6" src="https://github.com/user-attachments/assets/8fb109c0-07b5-4924-9677-a2ab0bd467cd" />
 
 <img width="544" height="316" alt="Welcome to the User and Item" src="https://github.com/user-attachments/assets/ee82961d-ac8a-4659-b97f-87e8bc8dc118" />
 
 <img width="529" height="348" alt="image" src="https://github.com/user-attachments/assets/bf0c6912-cb76-4f1e-be09-120e696178c2" />
 
-
-A Flask-based web application that demonstrates **user authentication** and **CRUD (Create, Read, Update, Delete) operations** with a PostgreSQL database.
 
 ## Features
 - 🔑 User registration & login with JWT authentication  
